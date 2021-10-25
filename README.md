@@ -61,7 +61,7 @@ RHEL8, Apache web server for our research group content and product licensing.
 
 \[12\]	***Shapovalov, MV***, Canutescu, AA, and Dunbrack, RL, Jr. [BioDownloader: Bioinformatics downloads and updates in a few clicks.](https://doi.org/10.1093/bioinformatics/btm120) Bioinformatics, 2007. 
 
-### Book Chapter
+### Book chapter
 \[13\]	***Shapovalov, M*** and Dunbrack Jr, RL. [Non-parametric statistical analysis of the Ramachandran map in Biomolecular Forms and Functions: A Celebration of 50 Years of the Ramachandran Map.](https://doi.org/10.1142/9789814449144_0006) 2013, World Scientific. p. 76-94.
 
 ### Other research publications
@@ -80,3 +80,17 @@ RHEL8, Apache web server for our research group content and product licensing.
 \[20\]	Karplus, PA, ***Shapovalov, MV***, Dunbrack, RL, Jr., and Berkholz, DS. [A forward-looking suggestion for resolving the stereochemical restraints debate: ideal geometry functions.](https://doi.org/10.1107/S0907444908002333) Acta Crystallogr D Biol Crystallogr, 2008. 64(Pt 3): p. 335-6.
 
 \[21\]	Antoniou, I, Ivanov, VV, Kryanev, AV, Matokhin, VV, and ***Shapovalov, MV***. [On the efficient resources distribution in economics based on entropy.](https://doi.org/10.1016/j.physa.2003.12.051) Physica A: Statistical Mechanics and its Applications, 2004. 336(3): p. 549-562.
+
+## Software screenshots
+
+### BAM - GUI application for 3D homology modeling of protein complexes:
+![BAM](https://raw.githubusercontent.com/sh-maxim/publications/main/HomologyModelingBAM.png)
+
+### Multi-conformational analysis of protein electron density:
+![ElectronDensity](https://raw.githubusercontent.com/sh-maxim/publications/main/MultiConformationalAnalysisElectronDensity.png)
+
+### BioDownloader - GUI application for downloading, updating and routine processing of biological files from FTP and HTTP servers:
+![BioDownloader](https://raw.githubusercontent.com/sh-maxim/publications/main/BioDownloader.png)
+
+### BbDep2010 - Statistically derived representation of protein side-chain atomic conformations, compiled from 4,000 protein structures using adaptive kernel density estimation and kernel regression of response variables:
+![RotamerLibraryArt](https://raw.githubusercontent.com/sh-maxim/publications/main/RotamerLibraryArt.png)
