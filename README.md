@@ -43,15 +43,15 @@ RHEL8, Apache web server for our research group content and product licensing.
 
 \[3\] ***Shapovalov, M***. [Machine Learning Algorithms for Characterization and Prediction of Protein Structural Properties.](http://dx.doi.org/10.34944/dspace/2338) Doctoral Dissertation, Temple University, 2019. Publication #: 20.500.12613/2356.
 
-\[4\]	***Shapovalov, M***, Vucetic, S, and Dunbrack, RL, Jr. [A new clustering and nomenclature for beta turns derived from high-resolution protein structures.](https://doi.org/10.1371/journal.pcbi.1006844) PLoS Comput Biol, 2019. 15(3): p. e1006844.
+\[4\]	***Shapovalov, M***, Vucetic, S, and Dunbrack, RL, Jr. [A new clustering and nomenclature for beta turns derived from high-resolution protein structures.](https://doi.org/10.1371/journal.pcbi.1006844) PLoS Comput Biol, 2019. 15(3): e1006844.
 
 \[5\]	Alford, R, Leaver-Fay, A, Jeliazkov, J, O'Meara, M, DiMaio, F, Park, H, ***Shapovalov, M***, et al. [The Rosetta All-Atom Energy Function for Macromolecular Modeling and Design.](https://doi.org/10.1021/acs.jctc.7b00125) Journal of chemical theory and computation, 2017. 13(6): p. 3031-3048.
 
-\[6\]	***Shapovalov, MV***, Wang, Q, Xu, Q, Andrake, M, and Dunbrack Jr, RL. [Bioassemblymodeler (BAM): User-friendly homology modeling of protein homo-and heterooligomers.](https://doi.org/10.1371/journal.pone.0098309) PLOS ONE, 2014. 9(6): p. e98309.
+\[6\]	***Shapovalov, MV***, Wang, Q, Xu, Q, Andrake, M, and Dunbrack Jr, RL. [Bioassemblymodeler (BAM): User-friendly homology modeling of protein homo-and heterooligomers.](https://doi.org/10.1371/journal.pone.0098309) PLOS ONE, 2014. 9(6): e98309.
 
 \[7\]	***Shapovalov, MV*** and Dunbrack, RL, Jr. [A smoothed backbone-dependent rotamer library for proteins derived from adaptive kernel density estimates and regressions.](https://dx.doi.org/10.1016%2Fj.str.2011.03.019) Structure, 2011. 19(6): p. 844-58.
 
-\[8\]	Ting, D, Wang, G, ***Shapovalov, M***, Mitra, R, Jordan, MI, and Dunbrack, RL, Jr. [Neighbor-dependent Ramachandran probability distributions of amino acids developed from a hierarchical Dirichlet process model.](https://doi.org/10.1371/journal.pcbi.1000763) PLoS Comput Biol, 2010. 6(4): p. e1000763.
+\[8\]	Ting, D, Wang, G, ***Shapovalov, M***, Mitra, R, Jordan, MI, and Dunbrack, RL, Jr. [Neighbor-dependent Ramachandran probability distributions of amino acids developed from a hierarchical Dirichlet process model.](https://doi.org/10.1371/journal.pcbi.1000763) PLoS Comput Biol, 2010. 6(4): e1000763.
 
 \[9\]	Krivov, GG, ***Shapovalov, MV***, and Dunbrack, RL, Jr. [Improved prediction of protein side-chain conformations with SCWRL4.](https://doi.org/10.1002/prot.22488) Proteins, 2009. 77(4): p. 778-95.
 
